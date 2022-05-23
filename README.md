@@ -22,7 +22,7 @@ If you want to get rid of the Cross Origin errors in the console, you'll need to
 
 ## Page published at:
 
-[https://mthanasi.github.io/Mini-Patatap/](https://mthanasi.github.io/Mini-Patatap/)
+[https://mthanasi.github.io/mini-patatap/](https://mthanasi.github.io/mini-patatap/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
